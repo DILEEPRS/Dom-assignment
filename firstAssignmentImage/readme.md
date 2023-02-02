@@ -47,3 +47,24 @@ place.appendChild(button);
 
 
 
+assignment 2
+
+task 1
+
+let emp = document.querySelectorAll('.accordian')[0];
+
+emp= emp.children[1];
+
+emp.remove();
+
+console.log(emp.innerHTML);
+
+let emp1 = document.querySelectorAll('.accordian')[1];
+
+emp1= emp1.children[1];
+
+emp1.remove();
+
+
+
+task 2
