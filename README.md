@@ -88,7 +88,7 @@ h3.innerText="skills";
 div.appendChild(h3);
 
 
-third assignment
+Asignment 3
 
 document.getElementsByClassName('enterName')[0].placeholder='FSJS 2.0';
 
